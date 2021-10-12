@@ -6,9 +6,9 @@ This voice recognition software functions as a Speech-to-Text converter.
 3. Srishti Sharma (srishti.09.2001@gmail.com)
 4. Aditya Binukumar (persivefire@gmail.com)
 ## **INSTALLATION**
-1. Extract and open the code.
+1. Extract the .zip folder.
 2. Install the follow module: `pip install pyaudio`
-3. Run the code.
+3. Open and run the code.
 ## **INSTRUCTIONS FOR USE**
 Users can convert voice messages into text. 
 1. To use it, the user can run the code and speak directly into the microphone. 
